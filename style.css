@@ -3,6 +3,21 @@ img{
 }
 
 .description{
+    color: black;
+    background-color: white;
+    opacity: 0.75;
+}
+
+.time{
+    color: black;
+}
+
+.servings{
+    color: black;
+}
+
+.ingredients{
+    color: black;
     background-color: white;
     opacity: 0.75;
 }
